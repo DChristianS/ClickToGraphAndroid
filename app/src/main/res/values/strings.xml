@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClickToGraph</string>
+    <string name="klickmich">Klick mich ganz oft</string>
+    <string name="creator">Programmiert Von Mir</string>
+</resources>
